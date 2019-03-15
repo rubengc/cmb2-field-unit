@@ -1,0 +1,9 @@
+.cmb2-unit-field {
+    display: inline-block;
+    width: 55px;
+}
+
+.cmb2-unit-field .cmb2-unit-select {
+    margin-top: 0;
+    vertical-align: baseline;
+}
